@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/coderpade/static/css/main.ac2e7437.chunk.css",
-    "main.js": "/coderpade/static/js/main.d4a359a9.chunk.js",
-    "main.js.map": "/coderpade/static/js/main.d4a359a9.chunk.js.map",
+    "main.js": "/coderpade/static/js/main.568ee981.chunk.js",
+    "main.js.map": "/coderpade/static/js/main.568ee981.chunk.js.map",
     "runtime-main.js": "/coderpade/static/js/runtime-main.e6bbb2b6.js",
     "runtime-main.js.map": "/coderpade/static/js/runtime-main.e6bbb2b6.js.map",
-    "static/js/2.1a9d59ab.chunk.js": "/coderpade/static/js/2.1a9d59ab.chunk.js",
-    "static/js/2.1a9d59ab.chunk.js.map": "/coderpade/static/js/2.1a9d59ab.chunk.js.map",
+    "static/js/2.789dddb5.chunk.js": "/coderpade/static/js/2.789dddb5.chunk.js",
+    "static/js/2.789dddb5.chunk.js.map": "/coderpade/static/js/2.789dddb5.chunk.js.map",
     "static/js/3.94965ac7.chunk.js": "/coderpade/static/js/3.94965ac7.chunk.js",
     "static/js/3.94965ac7.chunk.js.map": "/coderpade/static/js/3.94965ac7.chunk.js.map",
     "index.html": "/coderpade/index.html",
     "static/css/main.ac2e7437.chunk.css.map": "/coderpade/static/css/main.ac2e7437.chunk.css.map",
-    "static/js/2.1a9d59ab.chunk.js.LICENSE.txt": "/coderpade/static/js/2.1a9d59ab.chunk.js.LICENSE.txt",
+    "static/js/2.789dddb5.chunk.js.LICENSE.txt": "/coderpade/static/js/2.789dddb5.chunk.js.LICENSE.txt",
     "static/media/style.css": "/coderpade/static/media/Tahoma_font.d8d06950.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.e6bbb2b6.js",
-    "static/js/2.1a9d59ab.chunk.js",
+    "static/js/2.789dddb5.chunk.js",
     "static/css/main.ac2e7437.chunk.css",
-    "static/js/main.d4a359a9.chunk.js"
+    "static/js/main.568ee981.chunk.js"
   ]
 }
