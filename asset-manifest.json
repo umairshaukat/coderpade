@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/coderpade/static/css/main.ac2e7437.chunk.css",
-    "main.js": "/coderpade/static/js/main.f1be6452.chunk.js",
-    "main.js.map": "/coderpade/static/js/main.f1be6452.chunk.js.map",
+    "main.js": "/coderpade/static/js/main.e759e2ff.chunk.js",
+    "main.js.map": "/coderpade/static/js/main.e759e2ff.chunk.js.map",
     "runtime-main.js": "/coderpade/static/js/runtime-main.e6bbb2b6.js",
     "runtime-main.js.map": "/coderpade/static/js/runtime-main.e6bbb2b6.js.map",
     "static/js/2.1a9d59ab.chunk.js": "/coderpade/static/js/2.1a9d59ab.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.e6bbb2b6.js",
     "static/js/2.1a9d59ab.chunk.js",
     "static/css/main.ac2e7437.chunk.css",
-    "static/js/main.f1be6452.chunk.js"
+    "static/js/main.e759e2ff.chunk.js"
   ]
 }
