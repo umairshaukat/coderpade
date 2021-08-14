@@ -26,8 +26,8 @@ ReactDOM.render(
   <Route  path="/teammate" component={Teammate}/>
   <Route  path="/member" component={Member}/>
   <Route  path="/Invites" component={Invites}/>
-  <Route  path="/database" component={Database}/>
-  <Route  path="/home" render={()=><Main/>}/>
+  <Route  path="/database" render={(props)=><Database/>}/>
+  <Route  path="/home" render={(props)=><Main/>}/>
   {/* <PrivateRoute  path="/home" exact component={Main}></PrivateRoute> */}
   <Route  path="/register" component={Register}/>
   <Route  path="/" component={Login}/>
